@@ -32,7 +32,7 @@ header {
 }
 
 header img {
-    height: 40px;
+    width: 50%;
 }
 
 /*nav link styling*/
@@ -159,6 +159,7 @@ h3 {
     border-radius: 7px;
     font-size: .80rem;
     font-weight: 600;
+    width: fit-content;
 }
 
 
